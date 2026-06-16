@@ -1,0 +1,6 @@
+python-docx
+lxml
+pandas
+matplotlib
+pypandoc
+latex2mathml

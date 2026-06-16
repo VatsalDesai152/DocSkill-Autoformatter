@@ -1,0 +1,25 @@
+# Byte-compiled / cached
+__pycache__/
+*.pyc
+*.pyo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Tool outputs (generated at runtime)
+output_docs/
+output_figures/
+
+# Temp files
+_temp_processing.docx
+temp_processing.docx
+*.msi
+
+# Word lock files
+~$*.docx
